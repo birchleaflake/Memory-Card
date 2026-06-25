@@ -19,7 +19,7 @@ class Question():
 
 questions_list = [] 
 questions_list.append(
-        Question('How much bones does the human body have', 'Portuguese', 'English', 'Spanish', 'Brazilian'))
+        Question('What is the capital of Canada?', 'Ottawa', 'Manitoba', 'Toronto', 'Montreal'))
 questions_list.append(
         Question('Which color does not appear on the American flag?', 'Green', 'Red', 'White', 'Blue'))
 questions_list.append(
